@@ -1,0 +1,6 @@
+"I do not have real-world experience in the tech industry yet, so I can mention some of the projects that I have created as coursework or assignments for my studies:
+
+Chat application created using C programming for server-client socket programming.
+Library management app built using Python's PyQt6 GUI toolkit with PostgreSQL.
+SAP applications and my portfolio website developed using React.
+Currently, I am very interested in C# programming language and recently completed a C# certification course from FreeCodeCamp and Microsoft."

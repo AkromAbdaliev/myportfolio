@@ -1,0 +1,31 @@
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 20px 170px;
+    /*  background: #fff; */
+}
+
+.nav-menu {
+    display: flex;
+    align-items: center;
+    list-style: none;
+    gap: 60px;
+    font-size: 20px;
+
+
+}
+
+.nav-connect {
+    padding: 16px 32px;
+
+    /* border-radius: 1px; */
+    background: #cdbfa0;
+    font-size: 22px;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.nav-connect:hover {
+    transform: scale(1.05);
+}

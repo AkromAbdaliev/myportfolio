@@ -1,0 +1,1 @@
+Additionally, while C# has its foundation in object-oriented programming and supports traditional domain-driven design, it has also evolved to embrace functional programming paradigms
