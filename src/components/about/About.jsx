@@ -14,8 +14,9 @@ const About = () => {
         </div>
         <div className="about-right">
 <div className="about-para">
-    <p>My programming journey began in 2020 during the pandemic. I decided to switch professions and started learning Python offline. After 7 months, I created my first Django project for backend development. Though I felt ready for a junior developer position, I wanted to deepen my knowledge, so I pursued a degree in software engineering. Luckily, I received a full scholarship due to my high grades.</p>
-    <p>At university, I studied data structures and algorithms using C, followed by two semesters of object-oriented programming in C++. I also attended lectures on SQL and software architecture, participating in group projects for the first time. During holidays, I learned JavaScript and React, building several web applications. While I initially favored Python for its simplicity, I&apos;ve recently delved into C# and obtained certification. I&apos;m eager to explore various IT fields and continue learning.</p>
+<p>My programming journey began in 2020 during the pandemic. I decided to change my profession and started learning Python offline. After 7 months, I created my first Django project for backend development. Though I felt ready for a junior developer position, I wanted to deepen my knowledge, so I applied to the European University of Lefke to pursue a degree in software engineering. Luckily, I received a full scholarship due to my high grades.</p>
+<p>At university, I studied data structures and algorithms using C, followed by two semesters of object-oriented programming in C++. I also attended lectures on SQL and software architecture, participating in group projects for the first time. During holidays, I learned JavaScript and React, building several web applications. I love Python as much as C#, although I am coding with C# more than any other language these days. Recently, I obtained the C# Fundamentals certification from Microsoft, thanks to FreeCodeCamp. I'm ready to explore various IT fields and continue learning.</p>
+
 </div>
 
             <div className="about-skills">
