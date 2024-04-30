@@ -41,8 +41,8 @@
 
 .mywork-container img:hover {
     transform: scale(1.10);
-    border: 2px solid #B415FF;
-    border-radius: 6px;
+    /* border: 2px solid white; */
+    border-radius: 2px;
     transition: 0.3s;
 }
 

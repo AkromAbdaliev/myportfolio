@@ -35,6 +35,7 @@
     text-align: center;
     font-size: 24px;
     line-height: 40px;
+    color: #3a3939;
 }
 
 .hero-action {
@@ -48,9 +49,11 @@
 
 .hero-connect {
     padding: 25px 45px;
-    border: 2px solid #cdbfa0;
-    background: #cdbfa0;
+    border: 2px solid #504ebd;
+    background: #504ebd;
     transition: 0.5s;
+    color: #FFF;
+    cursor: pointer;
 }
 
 .hero-resume {
@@ -68,6 +71,7 @@
 .hero-resume:hover {
     transform: scale(1.05);
     border-color: #cdbfa0;
-    color: #000000;
+    color: #B415FF;
     background: #cdc9c2;
+    font-szie: 28px;
 }

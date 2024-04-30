@@ -4,7 +4,8 @@
     align-items: center;
     justify-content: center;
     gap: 80px;
-    margin: 80px 170px
+    margin: 80px 170px;
+
 }
 
 .services-title {
@@ -59,7 +60,7 @@
 }
 
 .services-format p {
-    color: #000000d4;
+    color: #3a3939;
     font-size: 24px;
     line-height: 40px;
     max-width: 300px;
