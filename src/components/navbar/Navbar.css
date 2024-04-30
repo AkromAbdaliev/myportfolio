@@ -16,6 +16,13 @@
 
 }
 
+.logo-img {
+    margin-top: -55px;
+    margin-bottom: -60px;
+    margin-left: -20px;
+    width: 190px;
+}
+
 .nav-connect {
     padding: 16px 32px;
 
@@ -101,4 +108,17 @@
         flex-direction: row;
         gap: 20px;
     }
+
+    .logo-img {
+        margin-left: -40px;
+        margin-top: -50px;
+    }
+
+
+    /* .logo-img {
+        margin-top: -55px;
+        margin-bottom: -60px;
+        margin-left: -20px;
+        width: 190px;
+    } */
 }

@@ -36,7 +36,8 @@ const Contact = () => {
         <div className="contact-section">
           <div className="contact-left">
             <h1>Let&apos;s talk</h1>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ea a nemo pariatur sed ducimus, hic magni beatae fugit sit quo.</p>
+              <p>I am currently looking for internships, the main purpose of creating this website. However, I am open to any career advice or suggestions to improve the UX of my website. Feel free to contact me!</p>
+
             <div className="contact-details">
               <div className="contact-detail">
                 <img src={mail_icon} alt="" /><p>akromjon996@gmail.com</p>
